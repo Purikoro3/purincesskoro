@@ -1,2 +1,2 @@
 # purincesskoro
-practice
+learn github
